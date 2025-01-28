@@ -92,6 +92,7 @@ h1 {
     background: #ffffff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 70%;
 }
 
 footer {
@@ -114,7 +115,7 @@ footer {
     }
 
     .content {
-        padding: 40px; /* Increase padding in content area */
+        padding: 30px; /* Increase padding in content area */
     }
 }
 
