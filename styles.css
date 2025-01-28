@@ -83,6 +83,7 @@ h1 {
 .navbar ul li a:hover {
     background: #35424a;
     color: #ffffff;
+    width: max-content;
 }
 
 .content {
