@@ -54,12 +54,12 @@ function showContent(section) {
                 htmlContent = `
                     <h2>For More Details: contact:</h2>
                     <ul>
-                        <p>Nayunipalli village, ChallaReddy Palem Post,</p>
-                        <p>Vetapalem Mandal, Chirala</p>
-                        <p>Bapatla District, Andhra Pradesh – 523187, INDIA</p>
-                        <p>Phone: 08594-247500, 246100, 246102, 202401, 202402,</p>
-                        <p>Fax: 08594-247300</p>
-                        <p>E-Mail: sacetchirala@gmail.com</p>
+                        <li>Nayunipalli village, ChallaReddy Palem Post,</li>
+                        <li>Vetapalem Mandal, Chirala</li>
+                        <li>Bapatla District, Andhra Pradesh – 523187, INDIA</li>
+                        <li>Phone: 08594-247500, 246100, 246102, 202401, 202402,</li>
+                        <li>Fax: 08594-247300</li>
+                        <li>E-Mail: sacetchirala@gmail.com</li>
                     </ul>
                 `;
                 break;
